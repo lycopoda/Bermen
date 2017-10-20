@@ -1,0 +1,4 @@
+Berm	X	Y	Waarnemer
+BD-Peeleindseweg-1	173609	394868	Smits
+BD-Peeleindseweg-2	173072	395013	Smits
+BD-Peeleindseweg-3	174019	394681	Smits
