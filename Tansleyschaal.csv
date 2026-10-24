@@ -1,0 +1,15 @@
+Tansley_code,Tansley_omschrijving,Tansley-numeriek
+s,zeer zeldzaam,1
+s,sporadisch,1
+r,zeldzaam,2
+ro,zeldzaam / verspreid,2
+o,verspreid,3
+lo,lokaal / verspreid,3
+lf,lokaal / vrij talrijk,4
+f,vrij talrijk,5
+la,lokaal veel aanwezig,6
+a,veel aanwezig,7
+ld,lokaal dominant,8
+cd,co-dominant,9
+d,co-dominant / dominant,9
+d,dominant,9
